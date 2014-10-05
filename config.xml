@@ -4,12 +4,12 @@
 	id        = "com.omtamil.demoapp"
 	versionCode="1"
 	version   = "1.0">
-<name>முயல்</name>
+<name>abcd</name>
 <description>
-சும்மா ஒரு பயிற்சி</description>
+abcd songs</description>
 <author href="omtamil.com" 
 email="muhelen@omtamil.com">
-கலையரசன்
+mgvn enterprise
 </author>
 	
 	<!-- Define app icon MAIN ROOT Platform. -->
